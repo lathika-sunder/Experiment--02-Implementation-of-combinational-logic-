@@ -24,7 +24,7 @@ The input and output variables are allocated with letter symbols. The exact trut
 inputs and outputs is derived. The simplified Boolean function is obtained from each output. The logic diagram is drawn.
 
 ## Program:
-/*
+```
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
@@ -43,7 +43,7 @@ endmodule
 Developed by:G.PAVANA 
 RegisterNumber: 212222230105 
 
-*/
+```
 
 ## Output:
 ## RTL
