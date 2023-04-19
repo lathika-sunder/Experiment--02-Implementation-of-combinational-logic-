@@ -25,6 +25,7 @@ inputs and outputs is derived. The simplified Boolean function is obtained from 
 
 ## Program:
 /*
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
 module ff(a,b,c,d,f1);
@@ -41,6 +42,7 @@ endmodule
 
 Developed by:G.PAVANA 
 RegisterNumber: 212222230105 
+
 */
 
 ## Output:
