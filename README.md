@@ -23,6 +23,7 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 The input and output variables are allocated with letter symbols. The exact truth table that defines the required relationships between 
 inputs and outputs is derived. The simplified Boolean function is obtained from each output. The logic diagram is drawn.
 
+
 ## Program:
 ```
 
@@ -47,11 +48,12 @@ RegisterNumber: 212221230054
 
 ## Output:
 ## RTL
-![Experiment--02-Implementation-of-combinational-logic](f1.png)
-![Experiment--02-Implementation-of-combinational-logic](f2.png)
+![image](https://github.com/lathika-sunder/Experiment--02-Implementation-of-combinational-logic-/assets/95066409/c92fed2d-ead8-4550-bafc-2a5fe381f75b)
+![f2](https://github.com/lathika-sunder/Experiment--02-Implementation-of-combinational-logic-/assets/95066409/63031b7c-3f91-4cb8-841c-1843662de2ec)
 
 ## Timing Diagram
-![Experiment--02-Implementation-of-combinational-logic](f1time.png)
-![Experiment--02-Implementation-of-combinational-logic](f2time.png)
+![f1time](https://github.com/lathika-sunder/Experiment--02-Implementation-of-combinational-logic-/assets/95066409/8ebbcf91-4537-4ed9-9b27-458697a51cc1)
+![f2time](https://github.com/lathika-sunder/Experiment--02-Implementation-of-combinational-logic-/assets/95066409/b6f73493-8ac6-41be-b8be-cc6e8e0d62c0)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
