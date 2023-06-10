@@ -40,8 +40,8 @@ output f2;
 assign f2 = (x&y)|(w&y)|(~y&z);
 endmodule
 
-Developed by:G.PAVANA 
-RegisterNumber: 212222230105 
+Developed by: LATHIIKA SUNDER
+RegisterNumber: 212221230054
 
 ```
 
